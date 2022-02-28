@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-rice-burroughs/the-beasts-of-tarzan</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-02-28T19:55:17Z</dc:date>
+		<meta property="dcterms:modified">2022-02-28T19:55:17Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,17 +42,17 @@
 		<meta property="term" refines="#subject-4">sh85001072</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">An old enemy kidnaps Tarzan’s family and he must chase them down with his panther and ape friends.</dc:description>
+		<dc:description id="description">An old enemy kidnaps Tarzan’s family, and Tarzan must rescue them with the help of his panther and ape friends.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Beasts of Tarzan&lt;/i&gt;, the third book in the Tarzan series, was first published in &lt;i&gt;All-Story Cavalier&lt;/i&gt; magazine in 1914, and later published as a novel in 1916.&lt;/p&gt;
-			&lt;p&gt;Tarzan’s old enemy, Nikolas Rokoff, escapes prison and plans his revenge by kidnapping the Greystoke heir. He also captures Tarzan and Jane and takes them all back to Africa, where he strands the Ape-man on an island, before continuing on with his dasterdly plan. Before setting off to rescue his wife and child, Tarzan befriends a troop of apes led by Akut and tames Sheeta the panther. He escapes the island and chases his foe up the Ugambi river with his new allies.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Beasts of Tarzan&lt;/i&gt;, the third book in the Tarzan series, was first published in &lt;i&gt;All-Story Cavalier&lt;/i&gt; magazine in 1914. It was later published as a novel in 1916.&lt;/p&gt;
+			&lt;p&gt;Tarzan’s old enemy, Nikolas Rokoff, escapes prison and plans his revenge by kidnapping the Tarzan’s son, the heir of Greystoke. He also captures Tarzan and Jane, and takes them all back to Africa, where he strands the Ape-man on an island before continuing on with his dastardly plan. On the island prison Tarzan befriends a troop of apes led by Akut and tames Sheeta the panther before escaping and setting off to rescue his wife and child.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/85</dc:source>
 		<dc:source>https://archive.org/details/beastsoftarzan00burruoft</dc:source>
 		<meta property="se:production-notes">N/A</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">64072</meta>
+		<meta property="se:reading-ease.flesch">64.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Beasts_of_Tarzan</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_the-beasts-of-tarzan</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
@@ -80,6 +80,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://astart.ca</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
