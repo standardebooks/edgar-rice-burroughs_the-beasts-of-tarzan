@@ -55,7 +55,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/85</dc:source>
 		<dc:source>https://archive.org/details/beastsoftarzan00burruoft</dc:source>
 		<meta property="se:production-notes">N/A</meta>
-		<meta property="se:word-count">64072</meta>
+		<meta property="se:word-count">63611</meta>
 		<meta property="se:reading-ease.flesch">64.14</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Beasts_of_Tarzan</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_the-beasts-of-tarzan</meta>
