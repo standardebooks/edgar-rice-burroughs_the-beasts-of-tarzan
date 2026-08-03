@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edgar-rice-burroughs/the-beasts-of-tarzan</dc:identifier>
 		<dc:date>2022-02-28T19:55:17Z</dc:date>
@@ -47,11 +47,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Tarzan</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">3</meta>
-		<dc:description id="description">An old enemy kidnaps Tarzan’s family, and Tarzan must rescue them with the help of his panther and ape friends.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An old enemy kidnaps Tarzan’s family, and Tarzan must rescue them with the help of his panther and ape friends.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Beasts of Tarzan&lt;/i&gt;, the third book in the Tarzan series, was first published in &lt;i&gt;All-Story Cavalier&lt;/i&gt; magazine in 1914. It was later published as a novel in 1916.&lt;/p&gt;
 			&lt;p&gt;Tarzan’s old enemy, Nikolas Rokoff, escapes prison and plans his revenge by kidnapping the Tarzan’s son, the heir of Greystoke. He also captures Tarzan and Jane, and takes them all back to Africa, where he strands the Ape-man on an island before continuing on with his dastardly plan. On the island prison Tarzan befriends a troop of apes led by Akut and tames Sheeta the panther before escaping and setting off to rescue his wife and child.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/85</dc:source>
 		<dc:source>https://archive.org/details/beastsoftarzan00burruoft</dc:source>
