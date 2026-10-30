@@ -70,7 +70,7 @@
 		<dc:contributor id="artist">Félix Ziem</dc:contributor>
 		<meta property="file-as" refines="#artist">Ziem, Félix</meta>
 		<meta property="schema:alternateName" refines="#artist">Félix-Francois Georges Philibert Ziem</meta>
-		<link href="https://en.wikipedia.org/wiki/Félix_Ziem" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/F%C3%A9lix_Ziem" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81112410.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
